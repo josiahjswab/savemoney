@@ -12,9 +12,6 @@ using savemoney.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.AspNetCore.Authentication.Google;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Google.Apis.Auth.AspNetCore3;
 
 namespace savemoney
 {
